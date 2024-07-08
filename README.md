@@ -1,2 +1,2 @@
-# HackademyDia3
-Repositorio para la charla de Herramientas de GitHub en Hackademy
+# Herramientas de GitHub 🧰
+¿Quieres conocer más sobre las herramientas que posee GitHub para ti? En esta sesión, verás desde cómo puedes automatizar procesos hasta asistentes potenciados por inteligencia artificial. Descubre lo simple y efectivo que es facilitar tu proceso de desarrollo junto a GitHub.
