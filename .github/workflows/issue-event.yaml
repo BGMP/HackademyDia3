@@ -15,8 +15,8 @@ jobs:
         with:
           issue-number: ${{ github.event.issue.number }}
           body: |
-          ¿Encontraste un bug?
-          Llamando a @BGMP para poder arreglar esto!!!
-
-          ![Bug](https://giphy.com/gifs/art-animation-loop-26DOMIeH5yZgc4GD6)
+            Hola ${{ github.event.pull_request.user.login }} 👋
+            ¿Encontraste un bug? Llamando a @BGMP para poder arreglar esto!!!
+        
+            ![Bug](https://giphy.com/gifs/art-animation-loop-26DOMIeH5yZgc4GD6)
           
