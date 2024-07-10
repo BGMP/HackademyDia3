@@ -1,8 +1,7 @@
-# Página Web para Proyecto Cool 🆒
-¡Esta es el repositorio para la página web de José e Ignacio!
+# 🌐 Mi Página Web
 
-Este es un proyecto muy cool 😎
+¡Bienvenido a mi repositorio de GitHub para mi página web personal! Este proyecto está construido utilizando HTML y CSS. Espero que disfrutes navegando por el código y, si tienes alguna sugerencia o encuentras algún error, no dudes en abrir un issue o enviar un pull request. 🚀
 
-## ¿Por qué es tan cool este proyecto? 🤔
-¡Muy buena pregunta! Pues porque... ehh... es muy sencillo... mira, el otro día se nos ocurrió comer pizza (🍕) en el hall, pero no había suficiente mayo (no questions), el tema es que sin mayo, no hay pizza, por lo que se nos ocurrió una idea muy buena; ¿que tal mezclar pizza y mayo? Eso suena bien, ¿no? (no)... Asi nació nuestro emprendimiento: ¡Pizzas rellenas con mayo!
+## 📝 Descripción
 
+Esta página web es un proyecto personal para mostrar mis habilidades en desarrollo web utilizando HTML y CSS. El objetivo es crear una interfaz simple y atractiva que sea fácil de navegar y visualmente agradable.
